@@ -25,6 +25,10 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise', '~> 3.5', '>= 3.5.3' # email authentication
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
+gem 'omniauth-facebook'
+
 gem 'toastr-rails', '~> 1.0', '>= 1.0.3' # notifications
 
 # Use ActiveModel has_secure_password
