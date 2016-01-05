@@ -30,6 +30,7 @@ gem 'omniauth-google-oauth2'
 gem 'omniauth-facebook'
 
 gem 'toastr-rails', '~> 1.0', '>= 1.0.3' # notifications
+gem 'activeadmin', github: 'activeadmin'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
